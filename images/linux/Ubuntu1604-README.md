@@ -76,9 +76,7 @@ The following software is installed on machines in the Hosted Ubuntu 1604 pool
 - GNU C++ 7.4.0
 - Git (2.20.1)
 - Git Large File Storage (LFS) (2.6.1)
-- Go 1.9 (go version go1.9.7 linux/amd64)
-- Go 1.10 (go version go1.10.8 linux/amd64)
-- Go 1.11 (go version go1.11.5 linux/amd64)
+- Go 1.12 (go version go1.12 linux/amd64)
 - Google Chrome (Google Chrome 72.0.3626.96 )
 - Haskell (The Glorious Glasgow Haskell Compilation System, version 7.10.3)
 - Heroku (heroku/7.21.0 linux-x64 node-v11.9.0)
